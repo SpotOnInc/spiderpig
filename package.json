@@ -16,6 +16,10 @@
     "eslint": "^1.9.0",
     "eslint-plugin-no-console-log": "^1.0.0"
   },
+  "engines": {
+    "node": "^5.0.0"
+  },
+  "engineStrict": true,
   "files": [
     "index.js",
     "lib"
@@ -33,5 +37,5 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "version": "1.0.0"
+  "version": "1.0.1"
 }

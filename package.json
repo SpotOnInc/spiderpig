@@ -8,7 +8,7 @@
   ],
   "dependencies": {
     "minimist": "^1.2.0",
-    "mongodb": "^2.0.49"
+    "mongodb": "^3.6.23"
   },
   "description": "A Mongo dumper tool that spiders through foreign ObjectIds",
   "devDependencies": {
@@ -16,7 +16,7 @@
     "eslint-plugin-no-console-log": "^1.0.0"
   },
   "engines": {
-    "node": "^5.0.0"
+    "node": "~14.19.0"
   },
   "engineStrict": true,
   "files": [
